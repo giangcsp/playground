@@ -18,5 +18,5 @@ spec:
         value       = "https://dappd.net"
       }
   writeConnectionSecretToRef:
-    namespace: default
+    namespace: argocd
     name: terraform-workspace-example-inline

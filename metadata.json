@@ -1,0 +1,12 @@
+{
+  "name": "Lets Fucking Grow",
+  "symbol": "LFG",
+  "description": "BLAH",
+  "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bd6abfa7-6aa2-4214-a0a1-bbe7bddc2940/dcpiyo1-0669e2f1-e3cd-47bf-b6ae-2ff5ace58c0d.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Developer Portal"
+    }
+  ]
+}

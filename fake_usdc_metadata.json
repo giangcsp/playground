@@ -1,0 +1,6 @@
+{
+  "name": "Fake USDC",
+  "symbol": "fUSDC",
+  "description": "Fake USDC used for testing",
+  "image": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png"
+}
